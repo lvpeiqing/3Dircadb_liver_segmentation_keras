@@ -1,8 +1,10 @@
 # 3Dircadb_liver_segmentation_keras
 
 数据集3Dircadb， http://ircad.fr/research/3d-ircadb-01
+
                 百度网盘链接：链接：https://pan.baidu.com/s/1wePSYU2icEyxl7pASTE4ow 
-                                   提取码：wwmu 
+                
+                             提取码：wwmu 
 
 How to use it？
 
