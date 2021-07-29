@@ -42,3 +42,5 @@ step2:
       
 step3:
       python test.py
+
+note: python visual_dicom.py和python visual_h5.py这两个可视化代码用于检测数据预处理之后的正确性 
