@@ -5,9 +5,37 @@
 How to use it？
 
 step1：
+
        python preprocessing_train_data.py 
-       
        python preprocessing_val_data.py 
+       
+       data
+          3Dircadb
+             3Dircadb1.1
+                 MASKS_DICOM
+                    MASKS_DICOM
+                      liver
+                       image_0
+                       image_1
+                       .......
+                        
+                 PATIENT_DICOM
+                    PATIENT_DICOM
+                      image_0
+                      image_1
+                      .......
+             3Dircadb1.1
+             3Dircadb1.1
+             3Dircadb1.1
+             ...........
+             3Dircadb1.20
+             
+          h5
+            train_liver.h5
+            val_liver.h5
+           
+          preds
+             
        
 step2:
       python train.py
